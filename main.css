@@ -33,6 +33,7 @@ body {
     padding: 3px;
     box-sizing: border-box;
     background-origin: padding-box;
+    color: #F15A29;
 }
 
 button {
@@ -96,5 +97,30 @@ h3 {
     background-color: orangered;
 }
 
+.align {
+    box-sizing: border-box;
+    float: left;
+    text-align: center;
+    
+}
+.align h4 {
+    color: #F15A29;
+}
 
+.align2 {
+    text-align: center;
+    color: #F15A29;
+}
+.align2 p {
+    text-align: center;
+    color: black;
+}
 
+.exit {
+    background-color: #F15A29;
+    align-items: center;
+    text-align: center;
+}
+.exit p {
+    text-align: center;
+}
