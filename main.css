@@ -41,12 +41,43 @@ button {
 }
 
 .fast {
-    float: left;
+     float: left;
+}
+    
+
+p {
+    padding: 4px;
+    text-align: justify;
+}
+
+h3 {
+    padding-top: 4px;
+    text-align: center;
+
 }
 
 .drinks {
     float: right;
 }
 
+.style {
+    text-align: right;
+}
+
+.fifth {
+    width: 100%;
+    position: relative;
+    top: 20px;
+    left: 0;
+
+}
+
+.sixth {
+    width: 25%;
+    position: absolute;
+    top: 80px;
+    left: 380px;
+    box-sizing: border-box;
+}
 
 
