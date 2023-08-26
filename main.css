@@ -69,15 +69,32 @@ h3 {
     position: relative;
     top: 20px;
     left: 0;
-
+    float: inline-start;
 }
 
 .sixth {
-    width: 25%;
-    position: absolute;
-    top: 80px;
-    left: 380px;
-    box-sizing: border-box;
+    left: 20px;
+    right: 20px;
 }
+
+.end {
+    width: 100%;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.text2 {
+    width: 100%;
+    position: relative;
+    margin-top: -20%;
+    text-align: center;
+    color: white;
+}
+
+.text2 button {
+    background-color: orangered;
+}
+
 
 
