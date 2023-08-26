@@ -27,3 +27,14 @@ body {
 
 }
 
+.third {
+    width: 25%;
+    position: relative;
+    top: 0;
+    left: 0;
+}
+
+.forth {
+    width: 100%;
+}
+
