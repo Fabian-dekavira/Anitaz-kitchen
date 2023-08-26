@@ -16,6 +16,7 @@ body {
     width: 100%;
     height: auto;
     overflow: visible;
+    margin: 0  0 auto;
 }
 
 .text {
@@ -24,17 +25,28 @@ body {
     margin-top: -20%;
     text-align: center;
     color: white;
-
 }
 
 .third {
-    width: 25%;
-    position: relative;
-    top: 0;
-    left: 0;
+    float: left;
+    width: 33.33%;
+    padding: 3px;
+    box-sizing: border-box;
+    background-origin: padding-box;
 }
 
-.forth {
-    width: 100%;
+button {
+    color: orange;
+    contain: content;
 }
+
+.fast {
+    float: left;
+}
+
+.drinks {
+    float: right;
+}
+
+
 
