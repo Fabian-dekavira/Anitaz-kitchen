@@ -46,10 +46,9 @@ code .
 ## Screenshots
 Take a look at the currently ongoing work;
 
-| COLUMN 1 | COLUMN 2 |
-| -------- | -------- |
-| HELLO    | WORLD    |
-| ![ONE](SCREENSHOT1.jpg) | ![TWO](SCREENSHOT2.jpg)|
+| ONE                     | TWO                     |
+| ----------------------- | ----------------------- |
+| ![ONE](SCREENSHOT1.jpg) | ![TWO](SCREENSHOT2.jpg) |
 
 ## Author
 This project was built and is maintained by:
