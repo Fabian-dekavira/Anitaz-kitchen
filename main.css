@@ -11,3 +11,9 @@
     top: 80px;
     left: 380px;
 }
+
+body {
+    width: 100%;
+    height: auto;
+    overflow: visible;
+}
